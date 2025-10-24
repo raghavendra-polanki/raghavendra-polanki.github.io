@@ -56,16 +56,17 @@ const Index = () => {
         </div>
       </section>
 
-      {/* Problem Section */}
+      {/* Vision Section */}
       <section className="py-20 bg-gradient-to-b from-transparent via-card/50 to-transparent">
         <div className="container mx-auto px-6">
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold mb-6">
-              <span className="gradient-text">$30 Billion</span> Spent Annually
+              The Future of <span className="gradient-text">Digital Presence</span>
             </h2>
             <p className="text-lg text-muted-foreground">
-              Yet athlete marketing remains stuck in the past—costly shoots, months of planning, 
-              and athletes losing control over their Name, Image, and Likeness.
+              Imagine athletes creating authentic content without traditional production constraints. 
+              Pixology empowers athletes to maintain full control over their digital identity while opening 
+              new creative possibilities.
             </p>
           </div>
         </div>
